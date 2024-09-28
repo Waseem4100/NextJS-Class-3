@@ -29,7 +29,7 @@ export default function Main() {
       
       <div className="intro">
 
-<h1>Hi,<br />I'm <span id="name">Waseem Ahmed</span> <br />Next Js Developer</h1>
+<h1>Hi!<br />Im <span id="name">Waseem Ahmed</span> <br />Next Js Developer</h1>
 
       </div>
 <div className="picture">

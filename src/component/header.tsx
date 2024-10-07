@@ -1,9 +1,7 @@
-"use client";
-import React, { useState } from "react";
-import SS from "@/public/SS.png";
-import github from "@/public/github.png";
+
+
 import Link from "next/link"
-import Image from "next/image";
+
 
 
 
@@ -13,7 +11,7 @@ import Image from "next/image";
 
 
 export default function Header (){
-  const [navbarOpen, setNavbarOpen] = useState(false);
+ 
     
     return(
        

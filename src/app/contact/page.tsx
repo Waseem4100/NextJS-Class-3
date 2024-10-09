@@ -15,62 +15,7 @@ export default function Contact () {
 
 
 
-<div className="contactForm"> 
-     <form >
-            <div className="emailSection">
-              <label
-                htmlFor="email"
-                
-              >
-                Your email
-              </label>
-              <input
-                name="email"
-                type="email"
-                id="email"
-                required
-             
-                placeholder="  example@gmail.com"
-              />
-            </div>
-            <div className="subjectSection">
-              <label
-                htmlFor="subject"
-                
-              >
-                Subject
-              </label>
-              <input
-                name="subject"
-                type="text"
-                id="subject"
-                required
-                
-                placeholder="  Just saying hi"
-              />
-            </div>
-            <div className="messagetSection">
-              <label
-                htmlFor="message"
-               
-              >
-                Message
-              </label>
-              <textarea
-                name="message"
-                id="message"
-              
-                placeholder="  Let's talk about..."
-              />
-            </div>
-            <button
-              type="submit"
-              className="submitButton"
-            >
-              Send Message
-            </button>
-          </form>
-          </div>
+
     
 
 <div className="conectSection">

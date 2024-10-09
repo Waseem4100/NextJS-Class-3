@@ -49,17 +49,7 @@ export default function Jobs() {
           </ul>
       </div>
 
-      <div className="projectCard">
-        <div className="projectImage"></div>
-        <h1 className="projectTitle">SIMPLE CALCULATOR</h1>
-        <p className="projectDescription"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, nobis? Facere deleniti pariatur obcaecati explicabo! Est sed, officia aliquid fuga dolore possimus fugiat officiis corporis perspiciatis odio quasi similique dolores!</p>
-        <ul className="projectButton">
-          <Link href={`/`}><li className="projectlink">DEMO</li></Link>
-          <Link href={`/`}><li className="projectlink">GITHUB</li></Link>
-          
-          </ul>
-      </div>
-     
+   
      
      
      </div>

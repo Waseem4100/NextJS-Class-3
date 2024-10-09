@@ -724,7 +724,19 @@ label{
   opacity: 85%;
   margin-top: 20px;
 }
-
+@media(max-width:600px){
+  .footerContainer{
+    flex-direction: column;
+    padding: 10px;
+    align-items: flex-start;
+  }
+  .footerLogo{
+    font-size: 20px;
+  }
+  .footerParagraph{
+    font-size: 12px;
+  }
+}
 
 
 
